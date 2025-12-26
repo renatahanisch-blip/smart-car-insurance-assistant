@@ -1,0 +1,5 @@
+{
+  "name": "REMAlino MF-Offerten",
+  "description": "A specialized AI tool for Swiss motor vehicle insurance quotes. It generates ECOhub-compatible input blocks and tariff analyses based on Swiss market logic.",
+  "requestFramePermissions": []
+}
